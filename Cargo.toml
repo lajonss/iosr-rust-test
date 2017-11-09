@@ -1,0 +1,7 @@
+[package]
+name = "iosr-rust"
+version = "0.1.0"
+authors = ["paweu"]
+
+[dependencies]
+nickel = "0.10.0"
